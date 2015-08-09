@@ -1,20 +1,26 @@
 ## Synopsis
 
-This project is a real-time microphone Spectrum Analyzer written in python using pyqtgraph for real-time plotting and pyaudio for gathering microphone data.
+spectrum-analyzer is a real-time microphone Spectrum Analyzer written in python using pyqtgraph for real-time plotting and pyaudio for gathering microphone data.
 
 ## Usage
 
 python sa.py
 
+The GUI - user can scroll around.
+
  ![screenshot of the program](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot of the Program")
 
 ## Installation
 
+```{r, engine='bash', count_lines}
 git clone https://github.com/sbarratt/spectrum-analyzer.git
+```
 
 Dependencies:
 numpy (pip install numpy)
+
 pyaudio (pip install pyaudio)
+
 pyqtgraph (pip install pyqtgraph)
 
 ## License
