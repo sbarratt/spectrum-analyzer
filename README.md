@@ -5,7 +5,7 @@ spectrum-analyzer is a real-time microphone Spectrum Analyzer written in python 
 ## Usage
 
 ```{r, engine='bash', count_lines}
-python sa.py
+$ python sa.py
 ```
 
 The GUI - user can scroll around.
@@ -15,7 +15,7 @@ The GUI - user can scroll around.
 ## Installation
 
 ```{r, engine='bash', count_lines}
-git clone https://github.com/sbarratt/spectrum-analyzer.git
+$ git clone https://github.com/sbarratt/spectrum-analyzer.git
 ```
 
 Dependencies:
