@@ -14,16 +14,16 @@ The GUI - user can scroll around.
 
 ## Installation
 
+Download Pyaudio:
+
+https://people.csail.mit.edu/hubert/pyaudio/
+
 ```{r, engine='bash', count_lines}
 $ git clone https://github.com/sbarratt/spectrum-analyzer.git
 ```
 
 Dependencies:
-numpy (pip install numpy)
-
-pyaudio (pip install pyaudio)
-
-pyqtgraph (pip install pyqtgraph)
+in requirements.txt
 
 ## License
 
