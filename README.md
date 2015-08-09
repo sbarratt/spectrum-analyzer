@@ -4,7 +4,9 @@ spectrum-analyzer is a real-time microphone Spectrum Analyzer written in python 
 
 ## Usage
 
+```{r, engine='bash', count_lines}
 python sa.py
+```
 
 The GUI - user can scroll around.
 
