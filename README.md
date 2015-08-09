@@ -8,7 +8,7 @@ python sa.py
 
 The GUI - user can scroll around.
 
- ![screenshot of the program](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Screenshot of the Program")
+ ![screenshot of the program](https://github.com/sbarratt/spectrum-analyzer/raw/master/demo.png "Screenshot of the Program")
 
 ## Installation
 
